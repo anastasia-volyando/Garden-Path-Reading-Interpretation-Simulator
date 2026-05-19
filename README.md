@@ -12,26 +12,26 @@ Results are automatically stored in an SQLite database.
 
 ## Features
 
-- Word-by-word sentence presentation
-- Reading time measurement
-- Interpretation analysis
-- Garden-path trap detection
-- SQLite result storage
-- Multiple ambiguity structures
-- User scoring system
+≫︎ Word-by-word sentence presentation
+≫︎ Reading time measurement
+≫︎ Interpretation analysis
+≫︎ Garden-path trap detection
+≫︎ SQLite result storage
+≫︎ Multiple ambiguity structures
+≫︎ User scoring system
 
 ## Example Sentences
 
-- The horse raced past the barn fell.
-- While Anna dressed the baby played in the crib.
-- The government plans to raise taxes were defeated.
+≫︎ The horse raced past the barn fell.
+≫︎ While Anna dressed the baby played in the crib.
+≫︎ The government plans to raise taxes were defeated.
 
 ## Technologies Used
 
-- Python
-- SQLite
-- Experimental linguistics concepts
-- Rule-based interpretation analysis
+≫︎ Python
+≫︎ SQLite
+≫︎ Experimental linguistics concepts
+≫︎ Rule-based interpretation analysis
 
 ## How to Run
 
@@ -39,10 +39,10 @@ Results are automatically stored in an SQLite database.
 python3 main.py
 ```
 
-## Future Improvements
+## Possible future Improvements
 
-- GUI interface
-- Difficulty levels
-- Statistical analysis dashboard
-- Parse tree visualization
-- CSV export of experimental results
+? GUI interface
+? Difficulty levels
+? Statistical analysis dashboard
+? Parse tree visualization
+? CSV export of experimental results
